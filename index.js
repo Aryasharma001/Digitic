@@ -1,5 +1,4 @@
 const bodyParser = require("body-parser");
-const express = require("express");
 const dbConnect = require("./config/dbConnect");
 const { notFound, errorHandler } = require("./middlewares/errorHandler");
 const app = express();
