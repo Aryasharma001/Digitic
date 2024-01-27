@@ -28,7 +28,7 @@ Digitic is a modern e-commerce platform designed to provide a seamless shopping 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/digitic-backend.git
+git clone https://github.com/Aryasharma001/digitic-backend.git
 ```
 
 ### 2. Install Dependencies
